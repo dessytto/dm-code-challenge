@@ -1,4 +1,4 @@
-This script reates a reusable tool that generates a csv file of filtered results and creates a pie chart that renders in the browser. 
+This script creates a reusable tool that generates a csv file of filtered results and a pie chart that renders in the browser. 
 
 How to use the script:
 ===================================
