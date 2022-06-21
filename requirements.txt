@@ -2,7 +2,7 @@
 # https://github.com/damnever/pigar
 
 # test_dosing.py: 4
-numpy == 1.16.2
+numpy == 1.22.0
 
 # dosing.py: 1
 # test_dosing.py: 2
